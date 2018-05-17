@@ -1,0 +1,20 @@
+body {
+ text-align: center;
+  background: url("../images/wedding_chalkboard.jpg");
+  background-size: cover;
+  color: #000;
+  font-family: Helvetica;
+}
+
+div {
+	width: 40%;
+	margin-left: 10%;
+	background-color: rgba(255,255,255,.65);
+	margin-top: 15%;
+	padding: 16px;
+}
+
+a {
+	text-decoration: none;
+	color: grey;
+}
